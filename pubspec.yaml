@@ -1,0 +1,10 @@
+name: chili_text_scale_factor
+description: Package to improve mobile app text factor accessibility.
+version: 0.0.1
+
+environment:
+  sdk: '>=2.19.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
