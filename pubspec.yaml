@@ -8,3 +8,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+
+dev_dependencies:
+  lints: ^2.0.0
